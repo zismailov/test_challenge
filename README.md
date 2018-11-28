@@ -3,7 +3,7 @@
 You have an array of ints. Create function which groups numbers by sum of pairs
 
 (sum = 5). Each element of array has to be used only once.
----
+
 test data:
 input: [22, 3, 5, 0, 2, 2]
 resutls: [[3, 2], [5, 0]]
